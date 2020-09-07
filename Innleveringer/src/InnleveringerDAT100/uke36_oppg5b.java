@@ -3,7 +3,7 @@ package InnleveringerDAT100;
 import static java.lang.Integer.*;
 import static javax.swing.JOptionPane.*;
 
-public class uke37_oppg5b {
+public class uke36_oppg5b {
 	public static void main(String[] args) {
 				
 		for (int antStudenter=1; antStudenter<=10; antStudenter++) {
