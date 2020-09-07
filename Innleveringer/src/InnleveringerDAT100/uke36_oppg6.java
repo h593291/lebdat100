@@ -16,8 +16,8 @@ public class uke36_oppg6 {
 				
 				svar=svar*i;
 			}
-			String utTxt2 = n+"! = " + svar;
-			showMessageDialog(null, utTxt2);
+			String utTxt = n+"! = " + svar;
+			showMessageDialog(null, utTxt);
 		}
 		if (n<=0) {
 			showMessageDialog(null, "Ugyldig verdi.");
